@@ -1,0 +1,30 @@
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish_time.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_subscribe.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish_async.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_subscribe.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_c_pub.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_c_sub.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_cs_pub.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_cs_sub.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/pubsub_opts.c
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/CONTRIBUTING.md
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/epl-v20
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/edl-v10
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/README.md
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/notice.html
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3c-static.lib
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3a-static.lib
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTAsync.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTClient.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTClientPersistence.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTProperties.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTReasonCodes.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTSubscribeOpts.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTExportDeclarations.h
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3cs-static.lib
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3as-static.lib
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig.cmake
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig-debug.cmake
+C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfigVersion.cmake

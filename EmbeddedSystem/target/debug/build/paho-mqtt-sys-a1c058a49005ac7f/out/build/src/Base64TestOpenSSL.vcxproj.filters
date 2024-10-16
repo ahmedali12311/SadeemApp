@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\oG_Ju\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paho-mqtt-sys-0.9.0\paho.mqtt.c\src\Base64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\oG_Ju\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paho-mqtt-sys-0.9.0\paho.mqtt.c\src\Base64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\oG_Ju\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paho-mqtt-sys-0.9.0\paho.mqtt.c\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D4E119E1-948B-378A-909F-C89FD0D5D7F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{41B60607-F71F-3AFF-9C94-B8BBB20B6FBF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

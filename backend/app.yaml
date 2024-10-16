@@ -1,0 +1,8 @@
+runtime: go120
+handlers:
+- url: /.*
+  script: auto
+env_variables:
+  DATABASE_URL: "postgres://postgres:091093Aa@34.154.94.93:5432/internship?sslmode=verify-ca&sslcert=../../certs/client-cert.pem&sslkey=../../certs/client-key.pem&sslrootcert=../../certs/server-ca.pem"
+  MIGRATIONS_ROOT: "internal/migrations"
+  DOMAIN: "http://localhost:8080"

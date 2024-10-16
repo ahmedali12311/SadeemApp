@@ -1,0 +1,10 @@
+^C:\USERS\OG_JU\.CARGO\REGISTRY\SRC\INDEX.CRATES.IO-6F17D22BBA15001F\PAHO-MQTT-SYS-0.9.0\PAHO.MQTT.C\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/oG_Ju/.cargo/registry/src/index.crates.io-6f17d22bba15001f/paho-mqtt-sys-0.9.0/paho.mqtt.c -BC:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/build --check-stamp-file C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

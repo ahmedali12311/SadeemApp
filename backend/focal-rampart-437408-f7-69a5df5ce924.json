@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focal-rampart-437408-f7",
+  "private_key_id": "69a5df5ce9243c2d04475a4db4fbad37be489442",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDW+udUpT/OPYtW\n1sG4jmlZlzcC8xCDzu1w+k6XD6OdrfGu3FAQvtvWi+XQi2h7+o9caRePThaZVsCP\nFhJ8+vT1XOza/c+7ELjmenp237G4u6jo73zpJLGQkgzHjSMY1jtISGu8Fsja2qVN\nOMZCNaWpYV+so75I2EpxCokzer6Ov26Lc2X/WaLSRLesOwWy7e7cwgSXj8XZac45\naPoBQi5ysqO5m692EiQF+daVaWvWj0dm/XpHmuPYQysyMdTPKR3vgxvOZJnGQY9t\nbgE++BJ0L1fBqYCU+F3y3R/zCItHJish5EObsVU6dFZUsX7Mn/D4EfJoyA5QpdTj\nKFcyu+DhAgMBAAECggEACZYJ51oFsgJH3/5sMvjpX7JWJKPcB6nxfTPcJJublcti\nLIRBxGK5AM8fgfYaxEnUR1r0Tv08wBJV5yDP1ZIx3BhhrhOFRiJ6bDnn6Lxpe1hQ\nMYWEUg0YfImBV7XxFl7EfqD5ajCwkiRlHJVnLx/0nCHtweVR9djshi/hwFGShQuV\nOsMepCspTiYgG8T8Ep2hA7LO4OugNeGaN3OoUonTw493DkhDL1W4wGmd9uw7taEd\n/QMvBfriB+WuDdhVMmcJ4Fnk8FEd/weuE9wn9vTWT2sAySn2o08ycwFPVO0VZoIO\n/779xxgyEHxHyhdMg990FCQly5DxkcSd6qCpikT9JQKBgQD+McwpYsYZVcMJvMc1\nbZ67MGtziGuPf+5I/WStekI2pyzPMoHhNqUjnZTzNgoTWjj3sI1d7q7y13p4vWxd\nHEH33Qm2OhT/AtitaC68xbaymT5OdkQW2oEpZtnwm0NZ8CdtjnxQQD3OL4ak7JHc\nv+EsFoIC5vh3+swJ+zsFDbxN6wKBgQDYgc1svOOmkm1zQHI4qwLnhN/u52J8PXds\nfzfMjdHVgkwa+zP1Hpzafm/ziA98TCR4dw7XTaEZjXBA2YmLbquOMiXFR6AzD0z8\nsQq420xrBEMK21FXKYd9tJfJF29Bq1+NyrZlOzdj02NnrB+jaDua5bBahb8isqIi\nkslNVRp9YwKBgQCf4KpMjXeTj8Fwam/RRvVDPx0WOYONaiVxew7Lnc3vmg4w88+E\n213anM6GekK0EVcrUrxXjDw1ORoqvtldZtyHDVuCZd221w95YcGjsadLhd8Ocow4\n443BgJMrJjyiYM4rtiayQvWcrX++U50afwUdObrkIGm+7NtQm9dvQkhhqQKBgFmg\nUmPjRfJcx4ZgdWhUEt24ueLyUmjQITH+8CBzzRuv1sWMnBOq2o/wq3OLLa3s72QX\nFUO31Sr4zDFsXG4mIEq7I7upTP4WJW6t85xW3CmpF//UjrWgcYBuVC9gziPHR8Uw\n15TMkL94cLwoGujQa2xSDVFL8LXycQAS99ZVlqO1AoGAIK+HSM/crbq1rEv/5iix\ne2vJylxvq7Vbh1+NuJlBbFMf7lMLmmiYsv6cggpSsIj/HL/L2sp4IXBr3fk+7ML3\nCQ0V/mr7eEcgZc1/gs/y9GSzPWlbLeJOMe2QoHNDAfDO3+v+0sZpzSXJINMJ37iL\naKbJxif7cu9eVbnwPNPHKHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@focal-rampart-437408-f7.iam.gserviceaccount.com",
+  "client_id": "100864407222739027501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40focal-rampart-437408-f7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

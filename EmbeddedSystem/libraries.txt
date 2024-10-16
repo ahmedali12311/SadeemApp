@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+MQTTPubSubClient
+ArduinoJson
+PubSubClient
+ESPAsyncWebServer
+AllThingsTalk WiFi SDK
+AsyncTCP
+AsyncEspFsWebserver

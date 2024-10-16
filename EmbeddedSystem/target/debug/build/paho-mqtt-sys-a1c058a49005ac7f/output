@@ -1,0 +1,87 @@
+debug:Running the bundled build for Paho C
+debug:Building for Windows
+debug:Building with MSVC
+cargo:rerun-if-changed=build.rs
+CMAKE_TOOLCHAIN_FILE_x86_64-pc-windows-msvc = None
+CMAKE_TOOLCHAIN_FILE_x86_64_pc_windows_msvc = None
+HOST_CMAKE_TOOLCHAIN_FILE = None
+CMAKE_TOOLCHAIN_FILE = None
+CMAKE_GENERATOR_x86_64-pc-windows-msvc = None
+CMAKE_GENERATOR_x86_64_pc_windows_msvc = None
+HOST_CMAKE_GENERATOR = None
+CMAKE_GENERATOR = None
+CMAKE_PREFIX_PATH_x86_64-pc-windows-msvc = None
+CMAKE_PREFIX_PATH_x86_64_pc_windows_msvc = None
+HOST_CMAKE_PREFIX_PATH = None
+CMAKE_PREFIX_PATH = None
+CMAKE_x86_64-pc-windows-msvc = None
+CMAKE_x86_64_pc_windows_msvc = None
+HOST_CMAKE = None
+CMAKE = None
+running: "cmake" "C:\\Users\\oG_Ju\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\paho-mqtt-sys-0.9.0\\paho.mqtt.c/" "-G" "Visual Studio 17 2022" "-Thost=x64" "-Ax64" "-DPAHO_BUILD_SHARED=off" "-DPAHO_BUILD_STATIC=on" "-DPAHO_ENABLE_TESTING=off" "-DPAHO_HIGH_PERFORMANCE=on" "-DPAHO_WITH_SSL=on" "-DOPENSSL_ROOT_DIR=C:\\Program Files\\OpenSSL-Win64" "-DCMAKE_INSTALL_PREFIX=C:\\m\\target\\debug\\build\\paho-mqtt-sys-a1c058a49005ac7f\\out" "-DCMAKE_C_FLAGS= /DWIN32 -nologo -MD -Brepro" "-DCMAKE_C_FLAGS_DEBUG= /DWIN32 -nologo -MD -Brepro" "-DCMAKE_CXX_FLAGS= -nologo -MD -Brepro" "-DCMAKE_CXX_FLAGS_DEBUG= -nologo -MD -Brepro" "-DCMAKE_ASM_FLAGS= -nologo -MD -Brepro" "-DCMAKE_ASM_FLAGS_DEBUG= -nologo -MD -Brepro" "-DCMAKE_BUILD_TYPE=Debug"
+-- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.22631.
+-- CMake version: 3.31.0-rc1
+-- CMake system name: Windows
+-- Timestamp is 2024-10-16T01:29:12Z
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/build
+running: "cmake" "--build" "." "--target" "install" "--config" "Debug" "--parallel" "12"
+MSBuild version 17.11.9+a69bbaaf5 for .NET Framework
+
+  common_obj_static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\common_obj_static.dir\Debug\common_obj_static.lib
+  common_ssl_obj_static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\common_ssl_obj_static.dir\Debug\common_ssl_obj_static.lib
+  MQTTAsync.c
+  MQTTAsync.c
+  MQTTClient.c
+  MQTTClient.c
+  paho-mqtt3a-static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\Debug\paho-mqtt3a-static.lib
+  paho-mqtt3c-static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\Debug\paho-mqtt3c-static.lib
+  paho-mqtt3as-static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\Debug\paho-mqtt3as-static.lib
+  paho-mqtt3cs-static.vcxproj -> C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\build\src\Debug\paho-mqtt3cs-static.lib
+  1>
+  -- Install configuration: "Debug"
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_publish_time.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTAsync_subscribe.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_publish_async.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/MQTTClient_subscribe.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_c_pub.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_c_sub.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_cs_pub.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/paho_cs_sub.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/samples/pubsub_opts.c
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/CONTRIBUTING.md
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/epl-v20
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/edl-v10
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/README.md
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/share/doc/Eclipse Paho C/notice.html
+  -- Installing: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3c-static.lib
+  -- Installing: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3a-static.lib
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTAsync.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTClient.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTClientPersistence.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTProperties.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTReasonCodes.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTSubscribeOpts.h
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/include/MQTTExportDeclarations.h
+  -- Installing: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3cs-static.lib
+  -- Installing: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/paho-mqtt3as-static.lib
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig.cmake
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig-debug.cmake
+  -- Up-to-date: C:/m/target/debug/build/paho-mqtt-sys-a1c058a49005ac7f/out/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfigVersion.cmake
+cargo:root=C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out
+debug:CMake output dir: C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out
+debug:link Using SSL library
+debug:Using Paho C library at: C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\lib [paho-mqtt3as-static]
+debug:Using Paho C headers at: C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\include
+debug:Using existing Paho C binding for target: x86_64-pc-windows-msvc
+debug:Target Pointer Width: 64
+debug:Using bindings from: bindings/bindings_paho_mqtt_c_1.3.13-x86_64-pc-windows-msvc.rs
+cargo:rustc-link-search=C:\Program Files\OpenSSL-Win64/lib
+cargo:rustc-link-lib=libssl
+cargo:rustc-link-lib=libcrypto
+cargo:rustc-link-lib=User32
+cargo:rustc-link-search=native=C:\m\target\debug\build\paho-mqtt-sys-a1c058a49005ac7f\out\lib
+cargo:rustc-link-lib=static=paho-mqtt3as-static
